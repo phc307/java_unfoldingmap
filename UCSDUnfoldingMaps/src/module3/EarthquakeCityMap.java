@@ -109,19 +109,7 @@ public class EarthquakeCityMap extends PApplet {
 	    	}
 	    	
 	    }
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+    
 	}  
 	
 	// A suggested helper method that takes in an earthquake feature and 
